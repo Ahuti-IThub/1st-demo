@@ -1,3 +1,4 @@
 # 1st-demo
-this is my 1st git repository.
-author Ahuti Das
+This is my 1st git repository.
+<br>
+Author - Ahuti Das
